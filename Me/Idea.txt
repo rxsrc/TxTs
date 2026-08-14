@@ -1,0 +1,18 @@
+a peer to peer privacy focused messenger  
+
+2 exceptions, photos will be saved into a public database that deletes daily/weekly etc 
+
+
+functions: 
+use ram storage so nothing can be saved 
+have a webpage 
+have a application (universal coding language make it easier to port to other stuff)
+saved chats in a local messages data base, 
+have all letters and characters when being typed be obfuscated?
+have the sending message SHA256 Encrypted 
+photos get uploaded
+
+for the messanger: 
+pfp's 
+save chats for designited time (I.E:: 24 hours, 7 days, etc.)
+
